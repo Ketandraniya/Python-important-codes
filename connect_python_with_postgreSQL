@@ -1,0 +1,2 @@
+engine = sal.create_engine('postgresql://postgres:Kumar%40321@localhost:5432/Project')
+conn=engine.connect()
